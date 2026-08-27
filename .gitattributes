@@ -1,0 +1,6 @@
+*.bvh text eol=lf
+*.fbx binary
+*.glb binary
+*.vrm binary
+*.vrma binary
+*.webm binary
